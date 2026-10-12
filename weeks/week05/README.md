@@ -13,6 +13,10 @@ for 適合已知次數的重複工作。先確定初始值、繼續條件，以�
 | 題目 | 難度 |
 |---|---|
 | [01 等距量測位置](problems/basic/01-measurementPositions/README.md) | 基礎 |
+| [02 每日熱量追蹤](problems/basic/02-calorieTracker/README.md) | 基礎 |
+| [03 檢定及格計數](problems/basic/03-passCounter/README.md) | 基礎 |
+| [04 最高與最低分](problems/basic/04-recordTracker/README.md) | 基礎 |
+| [05 階梯集點回饋](problems/advanced/05-rewardSystem/README.md) | 進階 |
 
 ## 操作與測試
 
